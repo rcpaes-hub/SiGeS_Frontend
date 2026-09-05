@@ -63,7 +63,7 @@ export default function App() {
       <header className="bg-emerald-700 text-white p-4 shadow-md sticky top-0 z-50">
         <div className="max-w-4xl mx-auto flex justify-between items-center">
           <h1 className="text-xl font-bold flex items-center gap-2">
-            <Tractor className="w-6 h-6" />
+            <LayoutDashboard className="w-6 h-6" />
             Gestão do Sítio
           </h1>
           <span className="text-xs bg-emerald-800 px-2.5 py-1 rounded-full border border-emerald-600 font-medium">
