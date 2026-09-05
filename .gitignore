@@ -1,0 +1,6 @@
+# Pastas pesadas de instalação e cache (NÃO enviar para o Drive/GitHub)
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
